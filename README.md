@@ -1,3 +1,5 @@
+
+
 # Spotify-Hit-Song-Prediction-Machine-Learning-Project
 An end-to-end Machine Learning project that predicts whether a Spotify song will become a hit using audio features. Includes data preprocessing, EDA, feature engineering, model comparison and evaluation,
 
@@ -8,6 +10,8 @@ An end-to-end Machine Learning project that predicts whether a Spotify song will
 This project focuses on predicting whether a **Spotify song will become a Hit or Not Hit** using **Machine Learning** techniques based on various musical audio features.
 
 The project follows a complete **Machine Learning pipeline**, including data preprocessing, feature engineering, model training, evaluation, and deployment, to identify the characteristics of successful songs.
+
+<img width="994" height="498" alt="Spotify hit song prediction interface" src="https://github.com/user-attachments/assets/bf829f63-63d3-41ba-a202-7452c84e0239" />
 
 ---
 
